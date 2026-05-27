@@ -20,8 +20,10 @@ public class LibreriaApplication {
 				,"0983456256"
 				,"abrito@correo.com"
 
+
+
 		);
-		System.out.println(cliente.toString());
+
 
 
 	}
